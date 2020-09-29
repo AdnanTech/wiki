@@ -1,1 +1,2 @@
 [[G6065 Foundation Programming]]
+[[G6082 Mathematics for Computing]]
