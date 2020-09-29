@@ -1,0 +1,17 @@
+We a GNU Compiler for c code
+
+Dev C++ is a portable ide
+
+A non ide approach is to use clang on the mac
+
+You cant comment with //, has to be /*
+
+"" is for string literal
+' is for a single character
+
+You have to state void function_name(void), you have to state this when writing functions that donnny data types
+
+Return 0 means no error code, even if you dons in, it is returned by default
+Include stdio.h is also implicity added even if it is not added in the top
+
+C has a lot of undefined behaviour as it is low level, so you mess around with memory locations

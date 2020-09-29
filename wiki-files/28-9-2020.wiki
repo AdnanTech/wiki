@@ -1,0 +1,56 @@
+ Went through the module information page on canvas
+
+Assessments:
+  1. Week 5 - canvas online quiz - 20%
+  2. Week 8  - programming project - 30%
+  3. Week 11 - programming project - 50%
+Hand in files as pdf doc or word
+
+Mark scheme is on canvas:
+  Style Rules for c programming
+  500 word evaluatioe ansi c so its not cross platform
+
+We are using ANSI C, which is the basic form of C avalible cross platform, this limits us to CLI applications only
+
+Reading list is given
+
+Contact information is given on canvas for: Ramiz, Kingsley, and Richard
+
+Programming languages we are going to learn, in order: C -> C++ -> Java
+
+If on mac, the alternative to dev C++ is XCode
+
+Microsoft Studo doesnt use standard ANSI C, so it is not cross platform
+
+Notes on Dev C++:
+
+There is no way to declare strings, you have to declare an array of characters that contain the string: char c[] = "c string";
+
+Compiler options
+
+ISOC99 is the default language for C we are using
+
+Show most warnings yes
+
+
+Editor options
+
+72 max width for a line
+
+4 spaces as tabs
+
+General c notes
+/* is a comment
+
+Multiline comment at the start of the program
+/**********************************
+ * Program name
+* what the program does
+* author (Adnan Quisar)
+* version number/date
+***************************************/
+
+You must start with include stdio.h
+And an int main that has void in parenthesis
+Curly brackets must have their own line
+
