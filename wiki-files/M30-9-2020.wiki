@@ -52,3 +52,8 @@ worksheet:
       8a + 2 - 14a + 3 + 6a = -1
       
      y = x^(3) - 2x^2 - x + 1 
+
+
+Worksheet 2:
+  * 1 - dy/dx = (4.6 - 2.1) / (1 - 0) = 2.5 therefore y = 2.5x + 2.1
+  * 2 -
