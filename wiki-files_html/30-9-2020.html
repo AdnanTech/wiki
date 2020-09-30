@@ -137,7 +137,7 @@ Data types, that come with format specifiers, that are also stored in memory dif
 %e - double - a floating-point number to 15 significant places 0.1234567891234
 
 <li>
-%s - char [] (string) - string literals "Hello World" (notice the double quotes)
+%s - char string_name[] (string) - string literals "Hello World" (notice the double quotes)
 
 <li>
 %d - bool - a boolean value 1 (true)
@@ -182,6 +182,26 @@ long double
 printf("hello world") - prints to console
 scanf("Enter a value", &amp;variable) - takes input from user 
 </p>
+
+<p>
+General C notes:
+</p>
+<ul>
+<li>
+Global variables can be decalred above the main function
+
+<li>
+Constants can also be decalred by saying const
+
+<li>
+void functions can be called via void function_name(parameters)
+
+<li>
+#include &lt;iostream&gt;
+  std::cout &lt;&lt; someString &lt;&lt; "\n"; is a different way of printing
+  also try   cout &lt;&lt; str; 
+
+</ul>
 
 </body>
 </html>

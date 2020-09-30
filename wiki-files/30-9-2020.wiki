@@ -48,7 +48,7 @@ Data types, that come with format specifiers, that are also stored in memory dif
 * %d/%i - int - an integer value 5
 * %f - float - A floating-point number to 7 significant places 0.123456
 * %e - double - a floating-point number to 15 significant places 0.1234567891234
-* %s - char [] (string) - string literals "Hello World" (notice the double quotes)
+* %s - char string_name[] (string) - string literals "Hello World" (notice the double quotes)
 * %d - bool - a boolean value 1 (true)
 
 Data types can also be modified
@@ -63,3 +63,12 @@ Data types can also be modified
 
 printf("hello world") - prints to console
 scanf("Enter a value", &variable) - takes input from user 
+
+General C notes:
+* Global variables can be decalred above the main function
+* Constants can also be decalred by saying const
+* void functions can be called via void function_name(parameters)
+* #include <iostream>
+  std::cout << someString << "\n"; is a different way of printing
+  also try   cout << str; 
+
